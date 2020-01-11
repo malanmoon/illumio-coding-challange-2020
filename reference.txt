@@ -1,0 +1,5 @@
+The web resources I gained help with:
+https://en.wikipedia.org/wiki/Locality_of_reference
+https://docs.oracle.com/javase/8/docs/api/java/io/BufferedReader.html
+https://stackoverflow.com/questions/461742/how-to-convert-an-ipv4-address-into-a-integer-in-c
+https://www.vogella.com/tutorials/JavaRegularExpressions/article.html
