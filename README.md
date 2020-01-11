@@ -13,7 +13,7 @@ Query a million random packets from a million random policy takes `1s 992ms` aft
 - Merge the overlapping IP intervals should improve the current solution, but more complicated data structures can be developed in the future, possibly utilizing Tree and HashMap.
 
 - If the principle of locality is observed, I can add a layer of cache.
-- If extra information regarding the input policy is know, I might take advantage of it during the design process.
+- If extra information regarding the input policy is known, I might take advantage of it during the design process.
 
 ## Team Preference
 I am most interested in the Data team, and then the Platform team.
